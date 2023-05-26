@@ -20,6 +20,7 @@
 git clone https://github.com/xuxiaoooo/Audio_affective_computing.git
 cd Audio_affective_computing
 yarn install
+```
 
 ## 贡献
 欢迎任何形式的贡献！如果你找到了bug，或者有新的功能请求，请创建一个issue。
